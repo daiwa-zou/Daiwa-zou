@@ -1,4 +1,4 @@
-<h3 align="left">Hello Folks!<br> <br>My name is Daiwa and I am based out of New York .  Super passionate about learning new technologies year round and  a avid snowboarder in the Winter.</h3>
+<h3 align="left">Hello folks,<br> <br>My name is Daiwa and I am based out of New York. Super passionate about learning new technologies and a avid snowboarder during the Winter. I very much enjoy tinkering with random things that I found interesting.</h3>
 
 ###
 
