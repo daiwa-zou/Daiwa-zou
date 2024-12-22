@@ -1,48 +1,53 @@
-<h3 align="left">Hello folks,<br> <br>My name is Daiwa and I am based out of New York. Super passionate about learning new technologies and a avid snowboarder during the Winter. I very much enjoy tinkering with random things that I found interesting.</h3>
+<div style="background-color: black; color: white; padding: 20px; font-family: Arial, sans-serif;">
 
-###
+  <h1 align="center" style="color: #FFD700;">Hello, Folks! 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daiwa-zou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daiwa-zou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <h3 align="left">
+    My name is Daiwa, and I am based in New York 🌆. I'm a passionate learner of new technologies and an avid snowboarder during the winter ❄️🏂. When I'm not coding, I enjoy tinkering with random things that spark my interest.
+  </h3>
+
+  <hr style="border: 1px solid #FFD700;">
+
+  <h2 align="center" style="color: #1E90FF;">📊 My GitHub Stats</h2>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=daiwa-zou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daiwa-zou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  </div>
+
+  <hr style="border: 1px solid #FFD700;">
+
+  <h2 align="left" style="color: #1E90FF;">⚙️ Tech Stack</h2>
+  <div align="left" style="display: flex; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="Red Hat" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" style="margin: 5px;" />
+  </div>
+
+  <hr style="border: 1px solid #FFD700;">
+
+  <h2 align="left" style="color: #1E90FF;">💬 Connect with Me</h2>
+  <div align="left">
+    <a href="https://linkedin.com/in/daiwa-zou" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    </a>
+  </div>
+
+  <hr style="border: 1px solid #FFD700;">
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/daiwa-zou/daiwa-zou/output/snake.svg" alt="Snake animation" />
+  </div>
+
+  <hr style="border: 1px solid #FFD700;">
+
+  <div align="center">
+    <img align="right" height="150" src="https://media.giphy.com/media/BDqtUZBSgoPF9oZxsu/giphy.gif?cid=790b76115aaq201lyj7awkf85a5gaxzewcqc6c24og9z61qj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fun gif" />
+  </div>
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/BDqtUZBSgoPF9oZxsu/giphy.gif?cid=790b76115aaq201lyj7awkf85a5gaxzewcqc6c24og9z61qj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="linkedin.com/in/daiwa-zou" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/daiwa-zou/daiwa-zou/output/snake.svg" alt="Snake animation" />
-
-###
